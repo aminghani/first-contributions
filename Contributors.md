@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 -[Terence Fisher](https://github.com/Terence-Fisher)
 - [Junaire Edris Buico](https://github.com/jun-edris)
 - [Nick Stevens](https://github.com/nkstevens)
@@ -9071,6 +9071,7 @@ Shubham Gupta
 - [Fatih Aydin](https://github.com/fatay)
 - [Alessandro Meschi](https://github.com/MrAlessandro)
 - [Amir Raza](https://github.com/pseudo-nymous)
+- [amin ghanizadeh](https://github.com/aminghani)
 - [Amrit Dhaliwal](https://github.com/AmrDhaliwal)
 - [b0bdN](https://github.com/b0bdN)
 - [Bushan SC](https://github.com/scbushan05)
